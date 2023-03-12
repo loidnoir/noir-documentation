@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 title: Introduction
 description: Noir Docs introduction
 ---
@@ -12,7 +11,7 @@ Noir is a powerful and experience-based moderation and utility Discord bot. Our 
 
 ### Where to start ?
 
-To get started with Noir read our official [start guide](getting-started)
+To get started with Noir read our official [start guide](quick-start)
 
 ### How to get help ?
 

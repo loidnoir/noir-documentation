@@ -37,7 +37,6 @@ const config = {
           showReadingTime: true,
           routeBasePath: '/changelog',
           postsPerPage: 10,
-          blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Changelog',
         },
         theme: {

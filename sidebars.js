@@ -20,7 +20,7 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'Start guide',
+      label: 'Quick guide',
       link: {
         type: 'generated-index',
         title: 'Quick guide',
