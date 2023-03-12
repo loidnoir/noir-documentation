@@ -1,22 +1,24 @@
 ---
 title: Introduction
 description: Noir Docs introduction
+slug: /
 ---
 
-✨ Noir, advanced moderation and utility Discord bot which can handle all your needs. Join our [support server](https://discord.gg/n4ywtU3F3p)
+✨ Noir is an advanced and experience-based moderation and utility Discord bot. Our top priority is user-experience. It is incredibly fast and user-friendly following for easy setup and use without any hassle. We work hard on Noir and try to keep up with user needs.
 
-## Why Noir ?
-
-Noir is a powerful and experience-based moderation and utility Discord bot. Our top priority is user-experience. Noir is incredibly user-friendly following for easy setup and use without any hassle. We work hard on Noir and try to keep up with all the latest features.
+- [x]  Incredibly fast
+- [x] Easy to use
+- [x] Usual updates
+- [x] High level user-experience
 
 ### Where to start ?
 
-To get started with Noir read our official [start guide](quick-start)
+To get started with Noir read [quick guide how to start](quick-start)
 
 ### How to get help ?
 
-Here you can find all resources about Noir. In case of a question feel free to join our [support server](https://discord.gg/n4ywtU3F3p)
+Here you can find all resources about Noir. In case of a question join our [support server](https://discord.gg/n4ywtU3F3p)
 
 ### Contributions
 
-Currently, Noir is not open source, but you can always advice your features and leave a feedback.
+Currently, Noir is not open source, but you can always leave your leave a feedback and suggest your ideas.

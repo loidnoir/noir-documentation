@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Noir documentation',
-  tagline: 'Moderation and utility Discord bot',
+  title: 'Noir docs',
+  tagline: 'Noir discord bot docs',
   favicon: 'img/logo.png',
 
-  url: 'https://noirbot.github.io',
-  
+  url: 'https://noir-docs.vercel.app/',
+
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -32,6 +32,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/'
         },
         blog: {
           showReadingTime: true,
@@ -77,10 +78,10 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Noir Bot.`
-      },
+      // footer: {
+      //   style: 'dark',
+      //   copyright: `Copyright © ${new Date().getFullYear()} Noir Bot.`
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme
