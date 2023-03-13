@@ -12,6 +12,8 @@ Noir has an advanced welcome message editor. If you haven't played with it consi
 
 ![Customize welcome messages](https://i.imgur.com/UVV3Sw4.png)
 
+<!--truncate-->
+
 ### Where to start
 
 Let's start with running the command `/settings` and go to `welcome` section. You should see button `Message editor`, click and open the editor. Editor has every option to setup embed or simple message. It also has variables you can use to showcase information about user or server.
