@@ -1,7 +1,7 @@
 ---
 title: Message editor
 description: Welcome message editor
-slug: welcome/message-editor
+slug: message-editor
 ---
 
 Meet our powerful message editor for welcome messages. You can use it to customize your greeting messages.

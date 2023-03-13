@@ -1,7 +1,7 @@
 ---
 title: Message variables
 description: Welcome message variables
-slug: welcome/editor-variables
+slug: editor-variables
 ---
 
 You can use variables in your welcome messages to provide additional dynamic information such as server name, joined user name.
