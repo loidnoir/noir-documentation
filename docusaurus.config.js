@@ -76,12 +76,22 @@ const config = {
             label: 'Discord', 
             position: 'right'
           },
+          {
+            href: 'https://github.com/noir-development/',
+            label: 'GitHub',
+            position: 'right',
+          },
+          {
+            'href': 'https://discord.com/api/oauth2/authorize?client_id=855423971033874462&permissions=1635070110934&scope=bot%20applications.commands',
+            'label': 'Invite Noir',
+            position: 'left'
+          }
         ],
       },
-      // footer: {
-      //   style: 'dark',
-      //   copyright: `Copyright © ${new Date().getFullYear()} Noir Bot.`
-      // },
+      footer: {
+        style: 'dark',
+        copyright: `Copyright © ${new Date().getFullYear()} Noir Dev.`
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme
