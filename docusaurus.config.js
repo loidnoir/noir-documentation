@@ -49,7 +49,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: '/static/img/social-card.svg',
+      image: '/img/social-card.svg',
       navbar: {
         title: 'Noir Docs',
         logo: {
