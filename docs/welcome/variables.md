@@ -8,27 +8,27 @@ You can use variables in your welcome messages to provide additional dynamic inf
 
 Here is the list of all available variables.
 
-- `{{remove value}}` Removes input
+- `{{remove}}` Deletes input
 
-#### Guild variables
+#### Server variables
 
-- `{{guild name}}` Server name
-- `{{guild icon}}` Server icon URL
-- `{{guild members}}` Server member count
-- `{{guild createdAt}}` Server creation date `Format DD/MM/YYYY`
-- `{{guild created}}` Server creation date `Format X years ago`
+- `{{server name}}` Server name
+- `{{server icon}}` Server icon URL
+- `{{server members}}` Server member count
+- `{{server created at}}` Server creation date `Format DD/MM/YYYY`
+- `{{server created}}` Server creation date `Format X years ago`
 
 #### Client variables
 
-- `{{client name}}` Bot name `Noir`
-- `{{client avatar}}` Bot avatar URL `Noir's avatar`
+- `{{bot name}}` Bot name
+- `{{bot avatar}}` Bot avatar URL
 
 #### User variables
 
 - `{{user name}}` Joined user name
 - `{{user avatar}}` Joined user avatar URL
 - `{{user id}}` Joined user id
-- `{{user createdAt}}` Joined user account creation date `Format DD/MM/YYYY`
+- `{{user created at}}` Joined user account creation date `Format DD/MM/YYYY`
 - `{{user created}}` Joined user account creation date `Format X years ago`
-- `{{user joinedAt}}` Joined user joining date `Format DD/MM/YYYY`
+- `{{user joined at}}` Joined user joining date `Format DD/MM/YYYY`
 - `{{user joined}}` Joined user joining date `Format X years ago`
