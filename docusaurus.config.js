@@ -9,6 +9,7 @@ const config = {
   title: 'Noir docs',
   tagline: 'Noir bot documentation.',
   favicon: '/img/dark-logo.svg',
+
   url: 'https://docs.noirbot.live/',
 
   baseUrl: '/',
@@ -49,7 +50,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: '/img/social-card.svg',
+      image: '/img/social-card.png',
       navbar: {
         title: 'Noir Docs',
         logo: {
