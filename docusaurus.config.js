@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Noir docs',
   tagline: 'Noir bot documentation.',
-  favicon: '/static/img/dark-logo.svg',
+  favicon: '/img/dark-logo.svg',
   url: 'https://docs.noirbot.live/',
 
   baseUrl: '/',
