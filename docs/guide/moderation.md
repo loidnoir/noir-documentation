@@ -6,7 +6,7 @@ slug: moderation-setup
 
 Get in touch with server moderation.
 
-![moderation ui](img/../../../static/img/moderation-ui.png)
+![moderation ui](img/../../../static/img/docs/moderation-ui.png)
 
 Key features
 

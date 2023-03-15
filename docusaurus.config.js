@@ -7,10 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Noir docs',
-  tagline: 'Noir discord bot docs',
-  favicon: 'img/logo.png',
-
-  url: 'https://noir-docs.vercel.app/',
+  tagline: 'Noir bot documentation.',
+  favicon: '/static/img/dark-logo.svg',
+  url: 'https://docs.noirbot.live/',
 
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -35,10 +34,10 @@ const config = {
           routeBasePath: '/'
         },
         blog: {
-          showReadingTime: true,
-          routeBasePath: '/changelog',
-          postsPerPage: 10,
           blogSidebarTitle: 'Changelog',
+          routeBasePath: '/changelog',
+          showReadingTime: true,
+          postsPerPage: 10,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -50,15 +49,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/logo.png',
+      image: '/static/img/social-card.svg',
       navbar: {
         title: 'Noir Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.png',
+          alt: 'Noir docs logo',
+          src: 'img/dark-logo.svg',
         },
-        
         items: [
           {
             type: 'doc',
@@ -90,7 +87,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Noir Dev.`
+        copyright: `Copyright © ${new Date().getFullYear()} Noir Bot.`
       },
       prism: {
         theme: lightCodeTheme,

@@ -1,5 +1,5 @@
 ---
-title: Customize welcome messages
+title: Customize welcome
 slug: customize-welcome
 authors: [loid]
 tags: [guide, welcome message]
@@ -10,7 +10,7 @@ hide_table_of_contents: false
 
 Noir has an advanced welcome message editor. If you haven't played with it consider to do. This is a quick guide how to make a nice looking message for your server.
 
-![Customize welcome messages](https://i.imgur.com/UVV3Sw4.png)
+![Customize welcome messages](../static/img/blog/customize-messages.svg)
 
 <!--truncate-->
 

@@ -6,7 +6,7 @@ slug: welcome-setup
 
 Welcome new users in the best way.
 
-![welcome ui](../../static/img/welcome-ui.png)
+![welcome ui](../../static/img/docs/welcome-ui.png)
 
 Key features
 

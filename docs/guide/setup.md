@@ -20,6 +20,6 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-![settings ui](/img/settings-ui.png)
+![settings ui](/img/docs/settings-ui.png)
 
 Let's open the first section by clicking the button `Moderation settings`
