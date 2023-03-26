@@ -4,30 +4,22 @@ description: Noir welcome setup
 slug: welcome-setup
 ---
 
-Welcome new users in the best way.
-
-![welcome ui](../../static/img/docs/welcome-ui.png)
+Welcome is an powerful system that welcome new users with custom messages, give them roles and restore their roles when they rejoin.
 
 Key features
 
-- Custom welcome messages
+- Custom messages
 - Auto-role
 - Role restoring
 
-## What are welcome messages
+## Custom messages
 
-Welcome messages are messages that are sent when a new user joins your server. They are fully customizable. Setup welcome channel and use our powerful message editor to create your own welcome message.
+Custom messages are used to welcome new users. Use our powerful message editor for full customization. Do not forget to setup channel for messages to be sent. Messages are sent with custom webhook which can be also configured.
 
-:::tip
+## Auto role
 
-Use custom variables to provide additional information about the user or the server.
+Auto-role gives new users roles when they join the server. Roles are multiple and can always be changed.
 
-:::
+## Role restoring
 
-## What is auto-role
-
-Auto-role is a feature that gives a role to a new user when they join your server. Do not limit yourself, give up to 5 roles at once.
-
-## What is role restoring
-
-Tired of giving back roles when user left and joined back ?. Role restoring will automatically save user's roles and give it back when they rejoin.
+Role restoring saves user's roles when they leave and give them back when they rejoin. This is useful for users who want to keep their roles when they leave the server.

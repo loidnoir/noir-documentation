@@ -25,12 +25,12 @@ const sidebars = {
         type: 'generated-index',
         title: 'Quick guide',
         description: 'Learn how to start using Noir.',
-        slug: 'quick-start',
+        slug: 'quick-guide',
         keywords: ['guide']
       },
       collapsed: true,
       collapsible: true,
-      items: ['guide/start', 'guide/setup', 'guide/moderation', 'guide/welcome', 'guide/punishment'],
+      items: ['guide/invite', 'guide/setup', 'guide/welcome', 'guide/moderation', 'guide/punishment'],
     },
     {
       type: 'category',
@@ -52,13 +52,13 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Welcome system',
-        description: 'Welcome system resources.',
+        description: 'Powerful system to welcome new users in the best way.',
         slug: 'welcome',
         keywords: ['welcome']
       },
       collapsed: true,
       collapsible: true,
-      items: ['welcome/editor', 'welcome/variables']
+      items: ['welcome/message-editor', 'welcome/message-variables', 'welcome/image-variables']
     }
   ],
 };

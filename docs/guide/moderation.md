@@ -4,23 +4,23 @@ description: Noir moderation setup
 slug: moderation-setup
 ---
 
-Get in touch with server moderation.
-
-![moderation ui](img/../../../static/img/docs/moderation-ui.png)
+Moderation is a great system that logs every server activity and allows you to create custom rules for punishment.
 
 Key features
 
 - Logs
 - Rules
 
-## What are logs ?
+## Logs
 
-Wanna get notified with every server activity, enable logs. Logs are advanced messages with information about every action happened in the server, for example if someone creates channel, or uses particular command Noir will report about it with detailed message.
+Logs are messages sent to specific channel to notify about the activities that happened in the server. It is a good tool to moderate over members and keep track of what is happening in the server.
 
-## What are rules ?
+## Rules
 
-Ever wondered how to automate server moderation, than you should use moderation rules. Moderation rules are custom rules created by moderators. If users match them they are automatically getting punishment, for example you can create rule that if user got 3 warnings timeout him 30 minutes.
+Rules allow you to create rules with specific criteria to punish members when they match with it. This is convenient tool to automate moderation in the server.
 
 :::danger
+
 Moderation rules are still under development and not available yet.
+
 :::

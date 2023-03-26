@@ -1,7 +1,7 @@
 ---
 title: Rules
 description: Moderation rules
-slug: moderation/rules
+slug: rules
 ---
 
 Here you can find additional information on how to setup moderation rules.

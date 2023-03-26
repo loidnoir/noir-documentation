@@ -1,7 +1,7 @@
 ---
 title: Logs
 description: Moderation logs
-slug: moderation/logs
+slug: logs
 ---
 
 Here you can find additional information on how to setup moderation logs.

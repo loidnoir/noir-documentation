@@ -1,15 +1,13 @@
 ---
-title: User punishment
+title: Punishment system
 description: How to punish users
 slug: user-punishment
 ---
 
-Noir has powerful punishment system. You can warn users and keep track of their infractions.
+Noir has excellent punishment system that works aside with moderation rules.
 
-Use `warn` command to give a warning to user and setup moderation rules to automatically punish them after particular amount of warnings.
+Use `/warn` command to give warnings to user and setup moderation rules to automatically punish them after particular amount of warnings.
 
-![warn command](../../static/img/docs/warn-command.png)
+![warn command](https://i.imgur.com/tFWycHD.png)
 
-Do not forget to provide reason for the warning. Infractions can always be edited or removed by moderators. You can also setup moderation logs get notified about infractions.
-
-Read more about moderation logs and rules [here](/docs/guide/moderation.md).
+Infractions are displayed in logs channel and can be edited by the moderators.

@@ -32,7 +32,7 @@ In my case I will use built in lime color, just type `lime` in the color field. 
 
 ![User join message](https://i.imgur.com/EkpHmM3.png)
 
-You may ask what is `{{user name}}`. Noir uses this syntax to identify variables. It stands for new joined user name and the same goes for `{{guild name}}`, it stands for server name. To learn more about message variables [check out welcome editor resources](../docs/welcome/variables.md)
+You may ask what is `{{user name}}`. Noir uses this syntax to identify variables. It stands for new joined user name and the same goes for `{{guild name}}`, it stands for server name. To learn more about message variables [check out welcome editor resources](../docs/welcome/message-variables.md)
 
 To preview the message go back to the main editor and click `Example message` button. It will show message example how it will look like in the action.
 

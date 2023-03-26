@@ -4,17 +4,11 @@ description: Welcome message editor
 slug: message-editor
 ---
 
-Meet our powerful message editor for welcome messages. You can use it to customize your greeting messages.
+Meet our powerful message editor. Use it to fully customize your welcome messages.
 
-:::danger
+:::tip
 
-Use `Clear data` button only in case if you want to hard drop **all welcome messages data**. This action is **not reversible**.
-
-:::
-
-:::info
-
-Use `Example message` button to see how your message will look like.
+Use `Preview message` button to see how your message will look like.
 
 :::
 
@@ -25,12 +19,6 @@ Welcome messages have 3 types
 - Guild join `Server message when user joins the server`
 - Guild left `Server message when user leaves the server`
 - Direct join `Direct message the user who joined the server`
-
-:::info
-
-Direct left is not available because it is impossible for the bot to message user who is not available anymore.
-
-:::
 
 ## Embed settings
 
@@ -44,4 +32,4 @@ Use embed settings to customize
 
 ## Embed fields
 
-Embed fields are premium features yet. You can create up to 25 embed fields `Discord limitation`. Fields are also fully customizable and can are editable.
+Embed fields are small text boxes that can be added to embed. Our editor allows you to create, edit and delete up to 25 embed fields.
