@@ -6,7 +6,7 @@ slug: /
 
 ✨ Noir is an advanced and experience-based moderation and utility Discord bot. Our top priority is user-experience. It is incredibly fast and user-friendly following for easy setup and use without any hassle. We work hard on Noir and try to keep up with user needs.
 
-![Introduction card](https://i.imgur.com/apqDzKQ.png)
+![Introduction card](https://i.imgur.com/FZmErNX.png)
 
 - [x] Incredibly fast
 - [x] Easy to use

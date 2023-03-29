@@ -80,9 +80,9 @@ const config = {
             position: 'right',
           },
           {
-            'href': 'https://discord.com/api/oauth2/authorize?client_id=855423971033874462&permissions=1635070110934&scope=bot%20applications.commands',
+            'href': 'https://discord.com/api/oauth2/authorize?client_id=855423971033874462&permissions=1375224589510&scope=bot',
             'label': 'Invite Noir',
-            position: 'left'
+            position: 'right'
           }
         ],
       },
